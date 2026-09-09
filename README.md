@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="140" alt="GeeksforGeeks Logo"/>
+<img src="https://github.com/shriram-02/shriram-02/blob/main/GFG%20Gif.gif?raw=true" width="150" alt="GeeksforGeeks Logo"/>
 
 # 🚀 GFG Python - Practice of the Day Challenge 2k26
 
